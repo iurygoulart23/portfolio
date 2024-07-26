@@ -1,0 +1,6 @@
+[run]
+source = portfolio
+omit = 
+    tests/*
+    autoapp.py
+
